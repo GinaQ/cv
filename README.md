@@ -1,1 +1,2 @@
-# cv - practicing with GitHub Pages
+# CV
+HTML Practice website
